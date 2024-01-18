@@ -1,0 +1,37 @@
+.vercel
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# npm
+npm-debug.log*
+
+# Yarn
+yarn-error.log*

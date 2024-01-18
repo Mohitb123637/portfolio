@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "date": "10/10/2023",
+      "title": "TECHY STAR",
+      "description": "Designed and implemented a comprehensive dummy website for an imaginary IT solutions company,  Developed a responsive and user-friendly interface ensuring optimal viewing experiences across various devices, including desktops, tablets, and mobile devices.",
+        "url": "https://first-prqld1dzb-mohit-bhandaris-projects.vercel.app ",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "date": "15/10/2023",
+      "title": "VIDEO HUB",
+      "description": "This is the simple Video Player and this is also responsive",
+      "url": "https://react-video-6krcblfp2-mohit-bhandaris-projects.vercel.app ",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "23/11/2023",
+      "title": "PORTFOLIO",
+      "description": "Designed and developed a dynamic personal portfolio using React.js, showcasing my technical skills, creativity, and passion for web development. This project serves as an interactive hub to present my achievements, projects, and expertise in a visually appealing and user-friendly manner.",
+      "url": "https://655efc7063efde461f754e18--famous-bavarois-171311.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
